@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-\\Mac\Home\Desktop\design\design\obj\Debug\
+\\Mac\Home\Documents\GitHub\RailStattion\RailWayStstion\design\obj\Debug\
 design
 none
 false
 DEBUG;TRACE
-\\Mac\Home\Desktop\design\design\App.xaml
-11151548125
+\\Mac\Home\Documents\GitHub\RailStattion\RailWayStstion\design\App.xaml
+4-1540553831
 
-5-2017746502
+12-210876089
 13738642453
-MainWindow.xaml;
+MainWindow.xaml;Page1.xaml;StartWindow.xaml;Window1.xaml;
 
-False
+True
 
