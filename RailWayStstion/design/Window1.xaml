@@ -1,0 +1,14 @@
+﻿<Window x:Name="WindowChoice" x:Class="design.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:design"
+        mc:Ignorable="d"
+        Title="Selected Station" Height="450" Width="700">
+    <Grid>
+        <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5"/>
+        <TextBlock x:Name="TextblockChoiceWindowSelectedstation" HorizontalAlignment="Left" Height="54" Margin="10,26,0,0" TextWrapping="Wrap" Text="You have selected the station." VerticalAlignment="Top" Width="672" FontFamily="GungsuhChe" FontSize="30" TextAlignment="Center"/>
+
+    </Grid>
+</Window>

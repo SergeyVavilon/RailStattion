@@ -1,0 +1,29 @@
+﻿<Window x:Name="WindowCashbox" x:Class="design.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:design"
+        mc:Ignorable="d"
+        Title="CashBox" Height="490" Width="700">
+    <Grid>
+        <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5"/>
+
+        <Button x:Name="ButtonStation1WindowCashbox" Content="Station 1" HorizontalAlignment="Left" Height="32" Margin="48,144,0,0" VerticalAlignment="Top" Width="144" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation2WindowCashbox" Content="Station 2" HorizontalAlignment="Left" Height="32" Margin="265,144,0,0" VerticalAlignment="Top" Width="142" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation3WindowCashbox" Content="Station 3" HorizontalAlignment="Left" Height="32" Margin="479,144,0,0" VerticalAlignment="Top" Width="145" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation4WindowCashbox" Content="Station 4" HorizontalAlignment="Left" Height="32" Margin="48,213,0,0" VerticalAlignment="Top" Width="144" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation5WindowCashbox" Content="Station 5" HorizontalAlignment="Left" Height="32" Margin="265,213,0,0" VerticalAlignment="Top" Width="142" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation6WindowCashbox" Content="Station 6" HorizontalAlignment="Left" Height="32" Margin="479,213,0,0" VerticalAlignment="Top" Width="145" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation7WindowCashbox" Content="Station 7" HorizontalAlignment="Left" Height="34" Margin="48,281,0,0" VerticalAlignment="Top" Width="144" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation8WindowCashbox" Content="Station 8" HorizontalAlignment="Left" Height="34" Margin="265,281,0,0" VerticalAlignment="Top" Width="142" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation9WindowCashbox" Content="Station 9" HorizontalAlignment="Left" Height="34" Margin="479,281,0,0" VerticalAlignment="Top" Width="145" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation10WindowCashbox" Content="Station 10" HorizontalAlignment="Left" Height="34" Margin="48,350,0,0" VerticalAlignment="Top" Width="144" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation11WindowCashbox" Content="Station 11" HorizontalAlignment="Left" Height="34" Margin="265,350,0,0" VerticalAlignment="Top" Width="142" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonStation12WindowCashbox" Content="Station 12" HorizontalAlignment="Left" Height="34" Margin="479,350,0,0" VerticalAlignment="Top" Width="145" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
+        <Button x:Name="ButtonNextpageWindowCashbox" Content="Next Page" HorizontalAlignment="Left" Height="33" Margin="566,416,0,0" VerticalAlignment="Top" Width="116" FontFamily="GungsuhChe" FontSize="16" Click="ButtonNextpageWindowCashbox_Click"/>
+        <TextBlock x:Name="TextblockSelectstationWindowCashbox" HorizontalAlignment="Left" Height="54" Margin="10,26,0,0" TextWrapping="Wrap" Text="Select the station." VerticalAlignment="Top" Width="672" FontFamily="GungsuhChe" FontSize="30" TextAlignment="Center"/>
+        <TextBox x:Name="TextboxSearchWIndowCashbox" HorizontalAlignment="Left" Height="33" Margin="48,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="576" Opacity="0.7" FontFamily="GungsuhChe" FontSize="22"/>
+
+    </Grid>
+</Window>

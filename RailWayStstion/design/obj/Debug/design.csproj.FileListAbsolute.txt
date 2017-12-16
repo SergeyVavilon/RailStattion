@@ -1,0 +1,15 @@
+c:\users\student\documents\visual studio 2015\Projects\design\design\bin\Debug\design.exe.config
+\\Mac\Home\Desktop\design\design\bin\Debug\design.exe.config
+\\Mac\Home\Desktop\design\design\bin\Debug\design.exe
+\\Mac\Home\Desktop\design\design\bin\Debug\design.pdb
+\\Mac\Home\Desktop\design\design\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\design\design\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\design\design\obj\Debug\design_MarkupCompile.cache
+\\Mac\Home\Desktop\design\design\obj\Debug\design_MarkupCompile.lref
+\\Mac\Home\Desktop\design\design\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\design\design\obj\Debug\design.g.resources
+\\Mac\Home\Desktop\design\design\obj\Debug\design.Properties.Resources.resources
+\\Mac\Home\Desktop\design\design\obj\Debug\design.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\design\design\obj\Debug\design.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\design\design\obj\Debug\design.exe
+\\Mac\Home\Desktop\design\design\obj\Debug\design.pdb
