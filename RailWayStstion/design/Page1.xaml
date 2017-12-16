@@ -9,7 +9,8 @@
       Title="Page1">
 
     <Grid>
-        <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5" Margin="0,0,8,0"/>
+
+        <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5" Margin="0,0,8,31"/>
 
         <Button x:Name="ButtonStation13WindowCashboxPage1" Content="Station 13" HorizontalAlignment="Left" Height="32" Margin="48,144,0,0" VerticalAlignment="Top" Width="144" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
         <Button x:Name="ButtonStation14WindowCashboxPage1" Content="Station 14" HorizontalAlignment="Left" Height="32" Margin="265,144,0,0" VerticalAlignment="Top" Width="142" FontFamily="GungsuhChe" Background="{x:Null}" FontSize="20" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold"/>
