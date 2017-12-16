@@ -24,5 +24,10 @@ namespace design
         {
             InitializeComponent();
         }
+
+        private void ButtonNextpageWindowCashbox_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
