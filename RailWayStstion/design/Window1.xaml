@@ -8,16 +8,16 @@
         Title="Selected Station" Height="450" Width="700">
     <Grid>
         <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5"/>
-        <TextBlock x:Name="TextblockChoiceWindowSelectedstation" HorizontalAlignment="Left" Height="54" Margin="10,26,0,0" TextWrapping="Wrap" Text="You have selected the station." VerticalAlignment="Top" Width="672" FontFamily="GungsuhChe" FontSize="30" TextAlignment="Center"/>
-        <TextBlock x:Name="TextblockDepartureWindowSelectstation" HorizontalAlignment="Left" Height="34" Margin="32,98,0,0" TextWrapping="Wrap" Text="Point of departure:" VerticalAlignment="Top" Width="205" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockArrivalWindowSelectstation_Copy" HorizontalAlignment="Left" Height="34" Margin="32,137,0,0" TextWrapping="Wrap" Text="Arrival point:" VerticalAlignment="Top" Width="156" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockDeparture1WindowSelectedstation" HorizontalAlignment="Left" Height="34" Margin="226,98,0,0" TextWrapping="Wrap" Text="Our Station" VerticalAlignment="Top" Width="204" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockArrival1WindowSelectedstation_Copy" HorizontalAlignment="Left" Height="34" Margin="176,137,0,0" TextWrapping="Wrap" Text="Station 1" VerticalAlignment="Top" Width="204" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockTimeWindowSelectstation_Copy1" HorizontalAlignment="Left" Height="34" Margin="32,176,0,0" TextWrapping="Wrap" Text="Travel time:" VerticalAlignment="Top" Width="121" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockTime1WindowSelectedstation_Copy1" HorizontalAlignment="Left" Height="34" Margin="158,176,0,0" TextWrapping="Wrap" Text="1 hour 47 minutes" VerticalAlignment="Top" Width="204" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockBuyticketWindowSelectstation_Copy" HorizontalAlignment="Left" Height="69" Margin="32,325,0,0" TextWrapping="Wrap" Text="You can buy ticket in the Cash Boxex on the station." VerticalAlignment="Top" Width="294" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockPriceWindowSelectstation_Copy" HorizontalAlignment="Left" Height="34" Margin="32,215,0,0" TextWrapping="Wrap" Text="Ticket price:" VerticalAlignment="Top" Width="132" FontSize="20" FontFamily="GungsuhChe"/>
-        <TextBlock x:Name="TextblockPrice1WindowSelectstation_Copy" HorizontalAlignment="Left" Height="34" Margin="169,215,0,0" TextWrapping="Wrap" Text="35$" VerticalAlignment="Top" Width="121" FontSize="20" FontFamily="GungsuhChe"/>
+        <TextBlock x:Name="TextblockChoiceWindowSelectedstation" HorizontalAlignment="Left" Height="54" Margin="10,26,0,0" TextWrapping="Wrap" Text="You have selected the station." VerticalAlignment="Top" Width="672" FontFamily="GungsuhChe" FontSize="36" TextAlignment="Center"/>
+        <TextBlock x:Name="TextblockDepartureWindowSelectstation" HorizontalAlignment="Left" Height="46" Margin="32,98,0,0" TextWrapping="Wrap" Text="Point of departure:" VerticalAlignment="Top" Width="260" FontSize="24" FontFamily="GungsuhChe" FontWeight="Bold"/>
+        <TextBlock x:Name="TextblockArrivalWindowSelectstation_Copy" HorizontalAlignment="Left" Height="46" Margin="32,150,0,0" TextWrapping="Wrap" Text="Arrival point:" VerticalAlignment="Top" Width="198" FontSize="24" FontFamily="GungsuhChe" FontWeight="Bold"/>
+        <TextBlock x:Name="TextblockDeparture1WindowSelectedstation" HorizontalAlignment="Left" Height="46" Margin="272,98,0,0" TextWrapping="Wrap" Text="Our Station" VerticalAlignment="Top" Width="260" FontSize="24" FontFamily="GungsuhChe"/>
+        <TextBlock x:Name="TextblockArrival1WindowSelectedstation_Copy" HorizontalAlignment="Left" Height="46" Margin="212,150,0,0" TextWrapping="Wrap" Text="Station 1" VerticalAlignment="Top" Width="259" FontSize="24" FontFamily="GungsuhChe"/>
+        <TextBlock x:Name="TextblockTimeWindowSelectstation_Copy1" HorizontalAlignment="Left" Height="46" Margin="32,203,0,0" TextWrapping="Wrap" Text="Travel time:" VerticalAlignment="Top" Width="154" FontSize="24" FontFamily="GungsuhChe" FontWeight="Bold"/>
+        <TextBlock x:Name="TextblockTime1WindowSelectedstation_Copy1" HorizontalAlignment="Left" Height="46" Margin="186,203,0,0" TextWrapping="Wrap" Text="1 hour 47 minutes" VerticalAlignment="Top" Width="259" FontSize="24" FontFamily="GungsuhChe"/>
+        <TextBlock x:Name="TextblockBuyticketWindowSelectstation_Copy" HorizontalAlignment="Left" Height="31" Margin="32,367,0,0" TextWrapping="Wrap" Text="You can buy ticket in the Cash Boxex on the station." VerticalAlignment="Top" Width="629" FontSize="24" FontFamily="GungsuhChe" FontStyle="Italic"/>
+        <TextBlock x:Name="TextblockPriceWindowSelectstation_Copy" HorizontalAlignment="Left" Height="46" Margin="32,255,0,0" TextWrapping="Wrap" Text="Ticket price:" VerticalAlignment="Top" Width="167" FontSize="24" FontFamily="GungsuhChe" FontWeight="Bold"/>
+        <TextBlock x:Name="TextblockPrice1WindowSelectstation_Copy" HorizontalAlignment="Left" Height="46" Margin="199,255,0,0" TextWrapping="Wrap" Text="35$" VerticalAlignment="Top" Width="153" FontSize="24" FontFamily="GungsuhChe"/>
 
     </Grid>
 </Window>

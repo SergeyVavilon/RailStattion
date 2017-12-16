@@ -5,14 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:design"
         mc:Ignorable="d"
-        Title="StartWindow" Height="490" Width="700">
+        Title="Start Window" Height="490" Width="700">
     <Grid>
 
         <Image Source="жд.jpg" Stretch="Fill" Opacity="0.5"/>
 
         <TextBlock x:Name="TextblockWelcomeWindowStart" HorizontalAlignment="Left" Height="66" Margin="10,10,0,0" TextWrapping="Wrap" Text="Welcome!" VerticalAlignment="Top" Width="672" FontFamily="GungsuhChe" FontSize="48" TextAlignment="Center"/>
         <TextBox x:Name="TextboxLoginWindowStart" HorizontalAlignment="Left" Height="40" Margin="217,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Opacity="0.7" FontFamily="GungsuhChe" FontSize="22"/>
-        <PasswordBox HorizontalAlignment="Left" Height="40" Margin="217,261,0,0" VerticalAlignment="Top" Width="240" Opacity="0.7" FontFamily="GungsuhChe" FontSize="22"/>
+        <PasswordBox x:Name="PasswordboxWindowStart" HorizontalAlignment="Left" Height="40" Margin="217,261,0,0" VerticalAlignment="Top" Width="240" Opacity="0.7" FontFamily="GungsuhChe" FontSize="22"/>
         <TextBlock x:Name="TextblockAuthorizationWindowStart" HorizontalAlignment="Left" Height="26" Margin="217,119,0,0" TextWrapping="Wrap" Text="Authorization for staff" VerticalAlignment="Top" Width="240" FontFamily="GungsuhChe" FontSize="20" TextAlignment="Center" TextDecorations="{x:Null}" FontWeight="Bold"/>
         <TextBlock x:Name="TextblockLoginWIndowStart" HorizontalAlignment="Left" Height="23" Margin="217,164,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" Width="240" FontSize="18" FontFamily="GungsuhChe" FontStyle="Italic"/>
         <TextBlock x:Name="TextblockPasswordWindowStart" HorizontalAlignment="Left" Height="23" Margin="218,238,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="239" FontFamily="GungsuhChe" FontSize="18" FontStyle="Italic"/>

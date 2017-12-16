@@ -10,29 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace design
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Interaction logic for Window2.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Window2 : Window
     {
-        public MainWindow()
+        public Window2()
         {
             InitializeComponent();
-        }
-
-        private void ButtonNextpageWindowCashbox_Click(object sender, RoutedEventArgs e)
-        {
-            
-        }
-
-        private void ButtonStation3WindowCashbox_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

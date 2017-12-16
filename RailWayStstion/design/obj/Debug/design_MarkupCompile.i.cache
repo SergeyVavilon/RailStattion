@@ -4,28 +4,17 @@
 winexe
 C#
 .cs
-<<<<<<< HEAD
 \\Mac\Home\Documents\GitHub\RailStattion\RailWayStstion\design\obj\Debug\
-=======
-C:\Users\Tom\Documents\GitHub\RS\RailWayStstion\design\obj\Debug\
->>>>>>> b66724a0461a4d1c5f75f7fd86da5132dd1e99bd
 design
 none
 false
 DEBUG;TRACE
-<<<<<<< HEAD
 \\Mac\Home\Documents\GitHub\RailStattion\RailWayStstion\design\App.xaml
-4-1540553831
+5-2088410406
 
-15-1161085641
-=======
-C:\Users\Tom\Documents\GitHub\RS\RailWayStstion\design\App.xaml
-4-1540553831
-
-16336413570
->>>>>>> b66724a0461a4d1c5f75f7fd86da5132dd1e99bd
+16-1851772526
 13738642453
-MainWindow.xaml;Page1.xaml;StartWindow.xaml;Window1.xaml;
+MainWindow.xaml;Page1.xaml;StartWindow.xaml;Window1.xaml;Window2.xaml;
 
-False
+True
 
